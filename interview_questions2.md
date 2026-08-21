@@ -1,7 +1,7 @@
 Data Analyst Interview Preparation
 SQL Phase 2 — 15 Theory Questions + Answers
 Study these answers first, then practice the questions from memory without looking at the answers.
-/* 1. Query Execution Plan */
+/* 1. Query Execution Plan */ 
 An execution plan is the roadmap the database engine uses to execute a SQL query. It shows how data is retrieved and processed, including scans, indexes, joins, sorting, and filtering.
 Interview answer: An execution plan shows how the database engine intends to execute a query. I use it to identify expensive operations, check index usage, and understand joins, scans, and filters.
 /* 2. Indexing in SQL */
